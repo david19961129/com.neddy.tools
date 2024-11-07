@@ -1,0 +1,13 @@
+﻿{
+  "name": "com.neddy.tools",
+  "version": "1.0.0",
+  "displayName": "NEDDY 工具包",
+  "description": "提供載入場景與退出遊戲功能",
+  "unity": "6000.0",
+
+  "author": {
+    "name": "NEDDY",
+    "email": "david19961129@gmail.com",
+    "url": ""
+  }
+}
